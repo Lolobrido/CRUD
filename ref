@@ -1,0 +1,28 @@
+{
+  "ferramentas": [
+    {
+      "id": 1,
+      "nome": "Martelo",
+      "preco": 25,
+      "disponivel": true
+    },
+    {
+      "id": 2,
+      "nome": "Chave de Fenda",
+      "preco": 15,
+      "disponivel": true
+    },
+    {
+      "id": 3,
+      "nome": "Alicate",
+      "preco": 32,
+      "disponivel": false
+    },
+    {
+      "id": 4,
+      "nome": "Serrote",
+      "preco": 54,
+      "disponivel": true
+    }
+  ]
+}
